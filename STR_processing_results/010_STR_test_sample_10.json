@@ -1,0 +1,193 @@
+{
+  "query_file": "C:\\Users\\truem\\Desktop\\STRHE\\STR_test_samples_10_split\\STR_test_sample_10.txt",
+  "query_file_name": "STR_test_sample_10.txt",
+  "query_row": 2,
+  "query_id": "TEST000010",
+  "panel": {
+    "loci": [
+      "TPOX",
+      "D2S1338",
+      "D3S1358",
+      "FGA",
+      "D5S818",
+      "CSF1PO",
+      "D6S1043",
+      "D7S820",
+      "D8S1179",
+      "TH01",
+      "vWA",
+      "D12S391",
+      "D13S317",
+      "D16S539",
+      "D18S51",
+      "D19S433",
+      "PentaD",
+      "DYS393",
+      "DYS456",
+      "DYS570"
+    ],
+    "locus_count": 20
+  },
+  "database_search": {
+    "database_size_M": 1000000,
+    "exact_match_count_H": 1,
+    "match_status": "single_exact_match",
+    "matched_person_ids": [
+      "TEST000010"
+    ]
+  },
+  "statistics": {
+    "computable": true,
+    "unknown_alleles": [],
+    "log10_rmp": -22.467387492978283,
+    "rmp": 3.408886229436931e-23,
+    "log10_lr_for_complete_match": 22.467387492978283,
+    "log10_lr_for_returned_matches": 22.467387492978283,
+    "database_risk": {
+      "log10_expected_accidental_matches": -16.467387492978283,
+      "expected_accidental_matches": 3.408886229436931e-17,
+      "p_any_independent": 3.408886229436931e-17,
+      "log10_p_any_independent": -16.467387492978283,
+      "p_any_union_bound": 3.408886229436931e-17,
+      "log10_p_any_union_bound": -16.467387492978283
+    },
+    "risk_target": {
+      "alpha": 1e-05,
+      "criterion": "M * RMP <= alpha",
+      "met": true,
+      "log10_alpha": -5.0
+    }
+  },
+  "locus_probabilities": [
+    {
+      "locus": "TPOX",
+      "genotype": "8,8",
+      "model_probability": 0.310130927236,
+      "log10_model_probability": -0.5084549223850668
+    },
+    {
+      "locus": "D2S1338",
+      "genotype": "24,25",
+      "model_probability": 0.0239290586385,
+      "log10_model_probability": -1.6210743860562828
+    },
+    {
+      "locus": "D3S1358",
+      "genotype": "15,17",
+      "model_probability": 0.163584051063,
+      "log10_model_probability": -0.7862590409640735
+    },
+    {
+      "locus": "FGA",
+      "genotype": "20,23",
+      "model_probability": 0.024072479343,
+      "log10_model_probability": -1.6184791772974219
+    },
+    {
+      "locus": "D5S818",
+      "genotype": "10,11",
+      "model_probability": 0.12642397460000002,
+      "log10_model_probability": -0.8981705601582829
+    },
+    {
+      "locus": "CSF1PO",
+      "genotype": "12,13",
+      "model_probability": 0.051559117642,
+      "log10_model_probability": -1.287694523562417
+    },
+    {
+      "locus": "D6S1043",
+      "genotype": "13,14",
+      "model_probability": 0.03670726745,
+      "log10_model_probability": -1.4352479438958106
+    },
+    {
+      "locus": "D7S820",
+      "genotype": "11,11",
+      "model_probability": 0.137133199225,
+      "log10_model_probability": -0.8628573920756215
+    },
+    {
+      "locus": "D8S1179",
+      "genotype": "13,16",
+      "model_probability": 0.026450176536,
+      "log10_model_probability": -1.5775714250142472
+    },
+    {
+      "locus": "TH01",
+      "genotype": "8,9",
+      "model_probability": 0.051633315818,
+      "log10_model_probability": -1.2870699842841602
+    },
+    {
+      "locus": "vWA",
+      "genotype": "16,16",
+      "model_probability": 0.030175685232249998,
+      "log10_model_probability": -1.5203428591193924
+    },
+    {
+      "locus": "D12S391",
+      "genotype": "19,22",
+      "model_probability": 0.0367462528425,
+      "log10_model_probability": -1.4347869410096326
+    },
+    {
+      "locus": "D13S317",
+      "genotype": "8,11",
+      "model_probability": 0.14488601883000002,
+      "log10_model_probability": -0.8389735209328043
+    },
+    {
+      "locus": "D16S539",
+      "genotype": "9,10",
+      "model_probability": 0.060252956505,
+      "log10_model_probability": -1.2200216381754168
+    },
+    {
+      "locus": "D18S51",
+      "genotype": "13,13",
+      "model_probability": 0.025489399715999998,
+      "log10_model_probability": -1.5936403921925033
+    },
+    {
+      "locus": "D19S433",
+      "genotype": "13,14",
+      "model_probability": 0.141067009947,
+      "log10_model_probability": -0.8505745388548219
+    },
+    {
+      "locus": "PentaD",
+      "genotype": "9,13",
+      "model_probability": 0.072331011231,
+      "log10_model_probability": -1.1406754631626201
+    },
+    {
+      "locus": "DYS393",
+      "genotype": "12",
+      "model_probability": 0.54033,
+      "log10_model_probability": -0.26734091905573415
+    },
+    {
+      "locus": "DYS456",
+      "genotype": "17",
+      "model_probability": 0.072943,
+      "log10_model_probability": -1.137016378989706
+    },
+    {
+      "locus": "DYS570",
+      "genotype": "17",
+      "model_probability": 0.26234,
+      "log10_model_probability": -0.5811354857922715
+    }
+  ],
+  "model": {
+    "frequency_source": "database-derived frequency table",
+    "probability_normalization": "Frequencies are derived from database allele copy counts with denominator 2N for autosomal loci and N for single-allele loci.",
+    "autosomal_model": "homozygote p^2; heterozygote 2pq",
+    "sex_chromosome_model": "single allele frequency",
+    "hardy_weinberg": true,
+    "product_rule": true,
+    "theta": 0,
+    "single_source_no_error": true
+  }
+}

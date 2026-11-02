@@ -1,0 +1,95 @@
+{
+  "database_file": "C:\\Users\\truem\\Desktop\\STRHE\\STR_database_20loci\\STR_database_1000000_20loci.txt",
+  "sample_directory": "C:\\Users\\truem\\Desktop\\STRHE\\STR_test_samples_10_split",
+  "random_seed": 20261029,
+  "database_records_before": 1000000,
+  "database_records_after": 1000000,
+  "replacement_count": 10,
+  "placement": "Ten unique data rows were selected uniformly without replacement; sample records were randomly assigned to those rows.",
+  "sample_ids": [
+    "TEST000001",
+    "TEST000002",
+    "TEST000003",
+    "TEST000004",
+    "TEST000005",
+    "TEST000006",
+    "TEST000007",
+    "TEST000008",
+    "TEST000009",
+    "TEST000010"
+  ],
+  "records": [
+    {
+      "database_data_row_number": 189900,
+      "new_sample_id": "TEST000005",
+      "source_sample_file": "C:\\Users\\truem\\Desktop\\STRHE\\STR_test_samples_10_split\\STR_test_sample_05.txt",
+      "replaced_sample_id": "P189900",
+      "replaced_row_sha256": "1a979e6c091d5b0f55b809464f87d29bc14519971fea3528d09ab7766cbdb191"
+    },
+    {
+      "database_data_row_number": 236546,
+      "new_sample_id": "TEST000001",
+      "source_sample_file": "C:\\Users\\truem\\Desktop\\STRHE\\STR_test_samples_10_split\\STR_test_sample_01.txt",
+      "replaced_sample_id": "P236546",
+      "replaced_row_sha256": "ce3624e1dad3728bc608425bcf40f16b97c94bdc6cdd2dc6fd6c3ac93f2b63d9"
+    },
+    {
+      "database_data_row_number": 297266,
+      "new_sample_id": "TEST000004",
+      "source_sample_file": "C:\\Users\\truem\\Desktop\\STRHE\\STR_test_samples_10_split\\STR_test_sample_04.txt",
+      "replaced_sample_id": "P297266",
+      "replaced_row_sha256": "0e3f6ea43ab46cd15fd8d8cc7aa3ed59d4d2e051b385e5e2406f6a45a2e52c46"
+    },
+    {
+      "database_data_row_number": 365948,
+      "new_sample_id": "TEST000010",
+      "source_sample_file": "C:\\Users\\truem\\Desktop\\STRHE\\STR_test_samples_10_split\\STR_test_sample_10.txt",
+      "replaced_sample_id": "P365948",
+      "replaced_row_sha256": "6359f0c4659739c0c7db0cbc4cf6a3c603950de7d06ac44030c0c3ebabd9b20d"
+    },
+    {
+      "database_data_row_number": 464327,
+      "new_sample_id": "TEST000006",
+      "source_sample_file": "C:\\Users\\truem\\Desktop\\STRHE\\STR_test_samples_10_split\\STR_test_sample_06.txt",
+      "replaced_sample_id": "P464327",
+      "replaced_row_sha256": "e2dd812c7ad9ee4b3ac8489f674408efe420fb886885cb4f33453ab89ec685b1"
+    },
+    {
+      "database_data_row_number": 482541,
+      "new_sample_id": "TEST000003",
+      "source_sample_file": "C:\\Users\\truem\\Desktop\\STRHE\\STR_test_samples_10_split\\STR_test_sample_03.txt",
+      "replaced_sample_id": "P482541",
+      "replaced_row_sha256": "52e96b5972145bfaf241267fd39d19a1c11b8b3dd9b3bcf1f8752710f10f52ab"
+    },
+    {
+      "database_data_row_number": 559578,
+      "new_sample_id": "TEST000009",
+      "source_sample_file": "C:\\Users\\truem\\Desktop\\STRHE\\STR_test_samples_10_split\\STR_test_sample_09.txt",
+      "replaced_sample_id": "P559578",
+      "replaced_row_sha256": "0b9b12a52486fe8553034626b14c85aa45abfe4739636dd037a5fec29ab29430"
+    },
+    {
+      "database_data_row_number": 669762,
+      "new_sample_id": "TEST000002",
+      "source_sample_file": "C:\\Users\\truem\\Desktop\\STRHE\\STR_test_samples_10_split\\STR_test_sample_02.txt",
+      "replaced_sample_id": "P669762",
+      "replaced_row_sha256": "9117b0d7604b3f08738768eaf8f3ed329e1a2ac8ec3aed8aa35f6c5c3d8af3eb"
+    },
+    {
+      "database_data_row_number": 718324,
+      "new_sample_id": "TEST000007",
+      "source_sample_file": "C:\\Users\\truem\\Desktop\\STRHE\\STR_test_samples_10_split\\STR_test_sample_07.txt",
+      "replaced_sample_id": "P718324",
+      "replaced_row_sha256": "3befe153a9e2ec8b8fa09777dba5091e044915c9ab6e09f375ef73195c0f2875"
+    },
+    {
+      "database_data_row_number": 755983,
+      "new_sample_id": "TEST000008",
+      "source_sample_file": "C:\\Users\\truem\\Desktop\\STRHE\\STR_test_samples_10_split\\STR_test_sample_08.txt",
+      "replaced_sample_id": "P755983",
+      "replaced_row_sha256": "c1174fab3c6cf9bce18eb0cb49693fc1d504fb5084a20547056c5ccd618d682a"
+    }
+  ],
+  "note": "The generator validation JSON remains the pre-injection baseline. This manifest records the intentional test-record mutation.",
+  "database_data_row_number_definition": "1-based data row number after the single header row"
+}

@@ -1,0 +1,201 @@
+{
+  "output": "C:\\Users\\truem\\Desktop\\STRHE\\STR_test_samples_10.txt",
+  "distribution_source": "D:\\桌面归置\\STR\\STRDistribution.txt",
+  "records": 10,
+  "seed": 20261029,
+  "chunk_size": 25000,
+  "locus_selection": "first loci in STRDistribution.txt order",
+  "locus_count": 20,
+  "autosomal_locus_count": 17,
+  "sex_chromosome_locus_count": 3,
+  "format": {
+    "encoding": "UTF-8",
+    "delimiter": "TAB",
+    "header": "SampleID followed by loci in STRDistribution.txt order",
+    "autosomal_value": "allele1,allele2; numeric ascending order; two independent draws",
+    "sex_chromosome_value": "single allele; one draw"
+  },
+  "probability_handling": "Each source locus probability row was normalized by its raw sum because the source values are rounded to six decimal places.",
+  "loci": [
+    {
+      "locus": "TPOX",
+      "chromosome_type": "autosomal_two_alleles",
+      "sampled_copies": 20,
+      "expected_copies": 20,
+      "max_absolute_frequency_error": 0.03105,
+      "raw_probability_sum": 1.0,
+      "normalized_probability_sum": 1.0
+    },
+    {
+      "locus": "D2S1338",
+      "chromosome_type": "autosomal_two_alleles",
+      "sampled_copies": 20,
+      "expected_copies": 20,
+      "max_absolute_frequency_error": 0.12288635422729155,
+      "raw_probability_sum": 1.000002,
+      "normalized_probability_sum": 0.9999999999999999
+    },
+    {
+      "locus": "D3S1358",
+      "chromosome_type": "autosomal_two_alleles",
+      "sampled_copies": 20,
+      "expected_copies": 20,
+      "max_absolute_frequency_error": 0.11909600000000004,
+      "raw_probability_sum": 1.0,
+      "normalized_probability_sum": 1.0
+    },
+    {
+      "locus": "FGA",
+      "chromosome_type": "autosomal_two_alleles",
+      "sampled_copies": 20,
+      "expected_copies": 20,
+      "max_absolute_frequency_error": 0.07871684256631485,
+      "raw_probability_sum": 1.000002,
+      "normalized_probability_sum": 0.9999999999999999
+    },
+    {
+      "locus": "D5S818",
+      "chromosome_type": "autosomal_two_alleles",
+      "sampled_copies": 20,
+      "expected_copies": 20,
+      "max_absolute_frequency_error": 0.23740800000000006,
+      "raw_probability_sum": 1.0,
+      "normalized_probability_sum": 1.0
+    },
+    {
+      "locus": "CSF1PO",
+      "chromosome_type": "autosomal_two_alleles",
+      "sampled_copies": 20,
+      "expected_copies": 20,
+      "max_absolute_frequency_error": 0.1623912376087624,
+      "raw_probability_sum": 1.000001,
+      "normalized_probability_sum": 1.0
+    },
+    {
+      "locus": "D6S1043",
+      "chromosome_type": "autosomal_two_alleles",
+      "sampled_copies": 20,
+      "expected_copies": 20,
+      "max_absolute_frequency_error": 0.2481751518248482,
+      "raw_probability_sum": 1.000001,
+      "normalized_probability_sum": 1.0
+    },
+    {
+      "locus": "D7S820",
+      "chromosome_type": "autosomal_two_alleles",
+      "sampled_copies": 20,
+      "expected_copies": 20,
+      "max_absolute_frequency_error": 0.08979599999999999,
+      "raw_probability_sum": 1.0,
+      "normalized_probability_sum": 1.0
+    },
+    {
+      "locus": "D8S1179",
+      "chromosome_type": "autosomal_two_alleles",
+      "sampled_copies": 20,
+      "expected_copies": 20,
+      "max_absolute_frequency_error": 0.12262799999999999,
+      "raw_probability_sum": 1.0,
+      "normalized_probability_sum": 1.0
+    },
+    {
+      "locus": "TH01",
+      "chromosome_type": "autosomal_two_alleles",
+      "sampled_copies": 20,
+      "expected_copies": 20,
+      "max_absolute_frequency_error": 0.14452594452594453,
+      "raw_probability_sum": 0.999999,
+      "normalized_probability_sum": 1.0
+    },
+    {
+      "locus": "vWA",
+      "chromosome_type": "autosomal_two_alleles",
+      "sampled_copies": 20,
+      "expected_copies": 20,
+      "max_absolute_frequency_error": 0.07627700000000001,
+      "raw_probability_sum": 1.0,
+      "normalized_probability_sum": 1.0
+    },
+    {
+      "locus": "D12S391",
+      "chromosome_type": "autosomal_two_alleles",
+      "sampled_copies": 20,
+      "expected_copies": 20,
+      "max_absolute_frequency_error": 0.1666671666671667,
+      "raw_probability_sum": 0.999999,
+      "normalized_probability_sum": 1.0
+    },
+    {
+      "locus": "D13S317",
+      "chromosome_type": "autosomal_two_alleles",
+      "sampled_copies": 20,
+      "expected_copies": 20,
+      "max_absolute_frequency_error": 0.068275,
+      "raw_probability_sum": 1.0,
+      "normalized_probability_sum": 1.0
+    },
+    {
+      "locus": "D16S539",
+      "chromosome_type": "autosomal_two_alleles",
+      "sampled_copies": 20,
+      "expected_copies": 20,
+      "max_absolute_frequency_error": 0.1762767737232263,
+      "raw_probability_sum": 1.000001,
+      "normalized_probability_sum": 1.0000000000000002
+    },
+    {
+      "locus": "D18S51",
+      "chromosome_type": "autosomal_two_alleles",
+      "sampled_copies": 20,
+      "expected_copies": 20,
+      "max_absolute_frequency_error": 0.08868618394144817,
+      "raw_probability_sum": 1.000003,
+      "normalized_probability_sum": 1.0
+    },
+    {
+      "locus": "D19S433",
+      "chromosome_type": "autosomal_two_alleles",
+      "sampled_copies": 20,
+      "expected_copies": 20,
+      "max_absolute_frequency_error": 0.09067100000000002,
+      "raw_probability_sum": 1.0,
+      "normalized_probability_sum": 1.0000000000000002
+    },
+    {
+      "locus": "PentaD",
+      "chromosome_type": "autosomal_two_alleles",
+      "sampled_copies": 20,
+      "expected_copies": 20,
+      "max_absolute_frequency_error": 0.13994127988255978,
+      "raw_probability_sum": 0.999998,
+      "normalized_probability_sum": 0.9999999999999999
+    },
+    {
+      "locus": "DYS393",
+      "chromosome_type": "sex_chromosome_single_allele",
+      "sampled_copies": 10,
+      "expected_copies": 10,
+      "max_absolute_frequency_error": 0.15970154029845962,
+      "raw_probability_sum": 1.000001,
+      "normalized_probability_sum": 1.0000000000000002
+    },
+    {
+      "locus": "DYS456",
+      "chromosome_type": "sex_chromosome_single_allele",
+      "sampled_copies": 10,
+      "expected_copies": 10,
+      "max_absolute_frequency_error": 0.054012554012554004,
+      "raw_probability_sum": 0.999999,
+      "normalized_probability_sum": 0.9999999999999999
+    },
+    {
+      "locus": "DYS570",
+      "chromosome_type": "sex_chromosome_single_allele",
+      "sampled_copies": 10,
+      "expected_copies": 10,
+      "max_absolute_frequency_error": 0.17993797993797994,
+      "raw_probability_sum": 0.999999,
+      "normalized_probability_sum": 1.0
+    }
+  ]
+}
